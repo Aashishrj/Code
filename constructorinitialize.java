@@ -1,3 +1,5 @@
+//constructor initilize
+//parametrize,not parametrize
 class test
 {
     int a;
